@@ -1,4 +1,7 @@
-![](https://cdn.nlark.com/yuque/0/2025/png/32701462/1748966123388-be3add1f-be12-4065-902c-f9e6bf900c76.png)
+<img src="https://cdn.nlark.com/yuque/0/2025/png/32701462/1748966123388-be3add1f-be12-4065-902c-f9e6bf900c76.png" 
+     width="60%"  
+     style="display: block; margin: 0 auto;"
+     alt="">
 
 ### **AiX：开源的AI应用宇宙**
 **项目定位**  
