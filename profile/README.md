@@ -1,5 +1,5 @@
 <img src="https://cdn.nlark.com/yuque/0/2025/png/32701462/1748966123388-be3add1f-be12-4065-902c-f9e6bf900c76.png" 
-     width="60%"  
+     width="60%" height="60%"
      style="display: block; margin: 0 auto;"
      alt="">
 
@@ -23,6 +23,7 @@ _技术隐喻：如同宇宙空间的标准化对接舱，任何AI组件均可�
 | **AiX-RAG** | 自适应检索增强架构 + 多源异构数据融合 | 企业知识库的零代码智能升级 |
 | **AiX-DB** | SQL/NL2SQL自然语言接口 + 动态审计机制 | 非技术人员的数据库对话式交互 |
 | **AiX-IDP** | 多模态文档理解 | 适配多个工具 |
+| **​​AiX-Contract​​** | 智能合同卫士 风险条款扫描 + 法规同步	 | 合同风险秒审预警​​ ⚠️ |
 | **AiX-Orbiter** | 自定义模块注册中心（社区驱动开发） | 用户自建垂类AI应用的乐高平台 |
 
 
