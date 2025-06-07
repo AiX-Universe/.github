@@ -3,20 +3,20 @@
      style="display: block; margin: 0 auto;"
      alt="">
 
-### **AiX：开源的AI应用宇宙**
+# **AiX：开源的AI应用宇宙**
 **项目定位**  
 **在开源星空中点亮AI的无限可能**  
 AiX是一个以模块化架构为核心的**开源AI应用矩阵**，致力于将前沿大模型能力与开源工具链（如Dify、n8n）深度融合，构建可自由拓展的垂类AI应用生态。以“X”为符号，既是未知领域的探索，也是AI在**全领域（X=All）的智能渗透**——我们不是在构建单一应用，而是在搭建一个持续生长的**AI应用星系**。
-### 官网 ：http://aix.aigpt12345.com/
+# 官网 ：http://aix.aigpt12345.com/
 ---
 
-### **核心创新理念**
-#### 1. **可插拔式AI引擎架构**
+# **核心创新理念**
+## 1. **可插拔式AI引擎架构**
 + **动态适配层**：支持LLM（GPT、Claude、GLM等）、RAG框架、推理引擎的即插即用
 + **开源中枢**：深度集成Dify（可视化编排）、n8n（自动化流程）、LangChain（模块化链式调用），形成**开放技术三角**  
 _技术隐喻：如同宇宙空间的标准化对接舱，任何AI组件均可接入AiX轨道_
 
-#### 2. **应用星图计划（AiX Galaxy）**
+## 2. **应用星图计划（AiX Galaxy）**
 | 子项目 | 技术突破点 | 解决痛点场景 |
 | --- | --- | --- |
 | **AiX-Write** | 多风格迁移引擎 + 跨语种创作协议 | 自媒体/教育/营销的全链路内容生成 |
@@ -31,7 +31,7 @@ _技术隐喻：如同宇宙空间的标准化对接舱，任何AI组件均可�
 
 ---
 
-### <font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);">写作垂类模块</font>
+# <font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);">写作垂类模块</font>
 | **<font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);">子项目名称</font>** | <font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);">针对领域</font> | <font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);">核心能力</font> |
 | :---: | :---: | :---: |
 | **<font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);">AiX-Write-FinPro</font>** | <font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);">金融投研</font> | <font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);">◼</font><font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);"> 自动生成行研框架（宏观/赛道/公司）   </font><font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);">◼</font><font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);"> 财务模型智能搭建（DCF/Comps）   </font><font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);">◼</font><font style="color:rgba(0, 0, 0, 0.9);background-color:rgb(252, 252, 252);"> 监管披露合规校准</font> |
@@ -43,7 +43,7 @@ _技术隐喻：如同宇宙空间的标准化对接舱，任何AI组件均可�
 
 
 
-### **技术差异化壁垒**
+# **技术差异化壁垒**
 + **原子化能力集市**  
 将AI能力解耦为**微技能单元**（如PDF解析、表格识别、多轮对话控制），开发者可通过`AiX-CLI`命令行工具自由组合创新应用
 + **星河沙盒系统**  
@@ -53,7 +53,7 @@ _技术隐喻：如同宇宙空间的标准化对接舱，任何AI组件均可�
 
 ---
 
-### **愿景宣言**
+# **愿景宣言**
 “当大多数项目仍在建造孤立的AI岛屿时，  
 AiX正在构建连接一切智能的**曲率引擎**——  
 以开源为燃料，以模块化为航标，  
@@ -62,7 +62,7 @@ AiX正在构建连接一切智能的**曲率引擎**——
 
 ---
 
-### 使用建议指南
+# 使用建议指南
 1. **传播场景**
     - GitHub README顶部的项目宣言
     - 开源社区路演的核心叙事框架
